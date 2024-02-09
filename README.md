@@ -9,9 +9,5 @@ This is my **sample** README.md file.
 ## Project Description
 This is the _hello-world_ project. It is a GitHub tutorial where I am learning how to interact with the system on a basic level.
 
-## How To Run The Program
-
-
-
 ## Fun Images
 ![BroncosCountry](broncoscountry.jpg)
