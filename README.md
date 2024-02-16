@@ -1,5 +1,5 @@
 # Description
-This is my **sample** README.md file.
+Hello! Welcome to my **first** ever README.md file. This is my **sample** README.md file.
 
 ## Table of Contents
 1. [PROJECT DESCRIPTION](#Project-Description)
